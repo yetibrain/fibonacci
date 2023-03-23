@@ -1,0 +1,17 @@
+﻿extensions: designer.cs .cs
+// --------------------------------------------------------------------------------------------------------------------
+// <copyright company="Siemens AG" file="%FileName%">
+//   Copyright © Siemens AG %TIA-Lifetime%. All rights reserved. Confidential.
+// </copyright>
+// --------------------------------------------------------------------------------------------------------------------
+
+extensions: .mdd .cpp .c .h .hpp
+// ------------------------------------------------------------------------
+// Copyright © Siemens AG %TIA-Lifetime%. All rights reserved. Confidential.
+// ------------------------------------------------------------------------
+
+extensions: .xml .xsd
+<!-- Copyright © Siemens AG %TIA-Lifetime%. All rights reserved. -->
+
+extensions: .xaml
+<!-- Copyright © Siemens AG %TIA-Lifetime%. All rights reserved. Confidential. -->

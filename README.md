@@ -1,2 +1,2 @@
 # fibonacci
-create fibonacci numbers
+create fibonacci numbers (limited)
